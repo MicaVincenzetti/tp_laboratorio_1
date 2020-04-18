@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1587175572 source:c:\users\usuario\desktop\calculadora2020\calculadora\funciones.c
+	"prototipos.h"
+
+1587165137 c:\users\usuario\desktop\calculadora2020\calculadora\prototipos.h
+	<stdio.h>
+
+1587177614 source:c:\users\usuario\desktop\calculadora2020\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
